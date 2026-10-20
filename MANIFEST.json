@@ -1,0 +1,46 @@
+{
+  "Single_Cell_Immune_Profiling.ipynb": {
+    "bytes": 46328,
+    "sha256": "ce5373b098d4d78c5a66f7bf256a882b238ac02f2ddde12d7eba31c50ef081ad"
+  },
+  "README.md": {
+    "bytes": 11534,
+    "sha256": "7f351c2b6e01072329c0fe6a4ddedc4fe76f97930c938eb131c3913713e561b9"
+  },
+  "requirements.txt": {
+    "bytes": 391,
+    "sha256": "25d089166ad6e6b39d0dc118c629a61f6b6ee9dc196c325ef6b1cbd043eeb38e"
+  },
+  "analysis.py": {
+    "bytes": 36755,
+    "sha256": "c308fcf2a562cfc68565e4d645c21e6a319d3c419a9dfa00a8da38dd05dcf333"
+  },
+  "INTERVIEW_GUIDE.md": {
+    "bytes": 13698,
+    "sha256": "989dc3e8558b97a71c4b57aaed54ba93e49edf2b9fa163cbd5537fa2bd2c8a6d"
+  },
+  "RESUME_BULLETS.md": {
+    "bytes": 822,
+    "sha256": "418f9a4ee9663883529654422be225384dc7b1cd2d505a2f5aee126d0df6f18b"
+  },
+  "REFERENCES.md": {
+    "bytes": 3965,
+    "sha256": "4f9aaee462b6c177d2b7ca0901b672207b581fd1f9b93ab4fd855d81dfb421cb"
+  },
+  "build_notebook.py": {
+    "bytes": 1604,
+    "sha256": "a6e6c38263d60fe8c1739246d9546ff99ed1b1d93447f1e56c05cbeca9546f83"
+  },
+  "validate_project.py": {
+    "bytes": 7423,
+    "sha256": "db2994906058ffd959eb74838566daec08c8f2e2ec25f56a156e51767db7b226"
+  },
+  "validation_report.json": {
+    "bytes": 1296,
+    "sha256": "a233cdfd624bf9f3c4045e667c085bc8cf6ce848a3b7314a42971c002f8af825"
+  },
+  "package_project.py": {
+    "bytes": 1378,
+    "sha256": "ead856dd408a024a5d86c7985362cf00082edb3ac707738d7b09f966317a2c2e"
+  }
+}

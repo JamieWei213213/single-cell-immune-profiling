@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "scope": "Code integrity and synthetic helper smoke tests only",
+  "python": "3.12.10",
+  "checks": [
+    {
+      "check": "All Python and 11 notebook code cells compile; notebook structure, empty outputs, source equivalence, and pins agree",
+      "passed": true
+    },
+    {
+      "check": "Synthetic QC exact boundaries and overlapping failure counts",
+      "passed": true
+    },
+    {
+      "check": "Synthetic sparse count copy stays intact after expression transformation",
+      "passed": true
+    },
+    {
+      "check": "Synthetic ARI is invariant to permuted cluster names",
+      "passed": true
+    },
+    {
+      "check": "Synthetic split/merge, purity, and cell-index checks",
+      "passed": true
+    },
+    {
+      "check": "Synthetic multi-marker, mixed, cytotoxic, missing-marker, and insufficient-evidence cases",
+      "passed": true
+    }
+  ],
+  "pbmc_analysis_executed": false,
+  "scanpy_integration_tested": false,
+  "blocked_reason": "Scanpy/AnnData/graph dependencies absent; pip cannot resolve pypi.org in this environment",
+  "notebook_code_cells": 11,
+  "remaining": "Run notebook cells 1-10 in fresh Colab Python 3.11/3.12; cell 11 downloads results",
+  "synthetic_data_are_not_biological_results": true
+}
